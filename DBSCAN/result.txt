@@ -1,0 +1,221 @@
+Element 1:        Cluster 1
+Element 2:        Cluster 1
+Element 3:        Cluster 1
+Element 4:        Cluster 1
+Element 5:        Cluster 1
+Element 6:        Cluster 1
+Element 7:        Cluster 1
+Element 8:        Cluster 1
+Element 9:        Cluster 1
+Element 10:        Cluster 1
+Element 11:        Cluster 1
+Element 12:        Cluster 1
+Element 13:        Cluster 1
+Element 14:        Cluster 1
+Element 15:        Cluster 1
+Element 16:        Cluster 1
+Element 17:        Cluster 1
+Element 18:        Cluster 1
+Element 19:        Cluster 1
+Element 20:        Cluster 1
+Element 21:        Cluster 1
+Element 22:          ---
+Element 23:        Cluster 1
+Element 24:        Cluster 1
+Element 25:        Cluster 1
+Element 26:        Cluster 1
+Element 27:        Cluster 1
+Element 28:        Cluster 1
+Element 29:        Cluster 1
+Element 30:        Cluster 1
+Element 31:        Cluster 1
+Element 32:        Cluster 1
+Element 33:        Cluster 1
+Element 34:        Cluster 1
+Element 35:        Cluster 1
+Element 36:        Cluster 1
+Element 37:        Cluster 1
+Element 38:        Cluster 1
+Element 39:        Cluster 1
+Element 40:        Cluster 1
+Element 41:        Cluster 1
+Element 42:        Cluster 1
+Element 43:        Cluster 1
+Element 44:        Cluster 1
+Element 45:        Cluster 1
+Element 46:        Cluster 1
+Element 47:        Cluster 1
+Element 48:          ---
+Element 49:        Cluster 1
+Element 50:        Cluster 1
+Element 51:          ---
+Element 52:        Cluster 1
+Element 53:        Cluster 1
+Element 54:        Cluster 1
+Element 55:        Cluster 1
+Element 56:        Cluster 1
+Element 57:          ---
+Element 58:        Cluster 1
+Element 59:        Cluster 1
+Element 60:        Cluster 1
+Element 61:        Cluster 1
+Element 62:          ---
+Element 63:        Cluster 1
+Element 64:        Cluster 1
+Element 65:        Cluster 1
+Element 66:        Cluster 1
+Element 67:        Cluster 2
+Element 68:        Cluster 2
+Element 69:        Cluster 2
+Element 70:        Cluster 1
+Element 71:          ---
+Element 72:        Cluster 1
+Element 73:        Cluster 1
+Element 74:        Cluster 1
+Element 75:        Cluster 1
+Element 76:        Cluster 1
+Element 77:        Cluster 1
+Element 78:        Cluster 1
+Element 79:        Cluster 1
+Element 80:        Cluster 1
+Element 81:        Cluster 1
+Element 82:        Cluster 1
+Element 83:        Cluster 1
+Element 84:        Cluster 1
+Element 85:          ---
+Element 86:        Cluster 1
+Element 87:        Cluster 1
+Element 88:        Cluster 1
+Element 89:        Cluster 1
+Element 90:          ---
+Element 91:        Cluster 1
+Element 92:        Cluster 1
+Element 93:          ---
+Element 94:        Cluster 1
+Element 95:        Cluster 1
+Element 96:        Cluster 1
+Element 97:        Cluster 1
+Element 98:          ---
+Element 99:        Cluster 1
+Element 100:        Cluster 1
+Element 101:        Cluster 1
+Element 102:        Cluster 1
+Element 103:          ---
+Element 104:          ---
+Element 105:          ---
+Element 106:          ---
+Element 107:          ---
+Element 108:          ---
+Element 109:          ---
+Element 110:          ---
+Element 111:          ---
+Element 112:          ---
+Element 113:          ---
+Element 114:        Cluster 1
+Element 115:        Cluster 1
+Element 116:        Cluster 1
+Element 117:        Cluster 1
+Element 118:        Cluster 1
+Element 119:        Cluster 1
+Element 120:        Cluster 1
+Element 121:        Cluster 1
+Element 122:        Cluster 1
+Element 123:        Cluster 1
+Element 124:        Cluster 1
+Element 125:          ---
+Element 126:        Cluster 1
+Element 127:        Cluster 1
+Element 128:          ---
+Element 129:          ---
+Element 130:          ---
+Element 131:          ---
+Element 132:          ---
+Element 133:        Cluster 1
+Element 134:        Cluster 1
+Element 135:        Cluster 1
+Element 136:        Cluster 1
+Element 137:        Cluster 1
+Element 138:        Cluster 1
+Element 139:        Cluster 1
+Element 140:        Cluster 1
+Element 141:        Cluster 1
+Element 142:        Cluster 1
+Element 143:        Cluster 1
+Element 144:        Cluster 1
+Element 145:        Cluster 1
+Element 146:        Cluster 1
+Element 147:        Cluster 1
+Element 148:        Cluster 1
+Element 149:        Cluster 1
+Element 150:        Cluster 1
+Element 151:        Cluster 1
+Element 152:        Cluster 1
+Element 153:          ---
+Element 154:        Cluster 1
+Element 155:        Cluster 1
+Element 156:        Cluster 1
+Element 157:        Cluster 1
+Element 158:        Cluster 1
+Element 159:        Cluster 1
+Element 160:        Cluster 1
+Element 161:        Cluster 1
+Element 162:          ---
+Element 163:          ---
+Element 164:          ---
+Element 165:          ---
+Element 166:          ---
+Element 167:          ---
+Element 168:          ---
+Element 169:          ---
+Element 170:          ---
+Element 171:          ---
+Element 172:          ---
+Element 173:          ---
+Element 174:          ---
+Element 175:          ---
+Element 176:          ---
+Element 177:        Cluster 3
+Element 178:        Cluster 3
+Element 179:        Cluster 3
+Element 180:        Cluster 3
+Element 181:          ---
+Element 182:          ---
+Element 183:          ---
+Element 184:          ---
+Element 185:          ---
+Element 186:          ---
+Element 187:          ---
+Element 188:          ---
+Element 189:          ---
+Element 190:          ---
+Element 191:          ---
+Element 192:        Cluster 5
+Element 193:        Cluster 5
+Element 194:        Cluster 4
+Element 195:        Cluster 4
+Element 196:        Cluster 5
+Element 197:        Cluster 5
+Element 198:        Cluster 5
+Element 199:        Cluster 5
+Element 200:        Cluster 5
+Element 201:        Cluster 5
+Element 202:          ---
+Element 203:        Cluster 5
+Element 204:        Cluster 4
+Element 205:        Cluster 5
+Element 206:        Cluster 4
+Element 207:        Cluster 4
+Element 208:          ---
+Element 209:        Cluster 5
+Element 210:          ---
+Element 211:        Cluster 4
+Element 212:          ---
+Element 213:        Cluster 4
+Element 214:        Cluster 4
+
+Cluster 5:     11 Elements
+Cluster 4:     8 Elements
+Cluster 3:     4 Elements
+Cluster 2:     3 Elements
+Cluster 1:     130 Elements
+not assigned to the cluster (outliers): 58 elements 
